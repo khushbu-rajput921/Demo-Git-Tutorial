@@ -1,4 +1,4 @@
 # Demo-Git-Tutorial
 for practice purpose 
-author = khushbu rajput
+author = khushbu rajput(rajput)
 
